@@ -7,3 +7,5 @@ var LopHoc = function () {
 
     }
 }
+
+// fixxbug
